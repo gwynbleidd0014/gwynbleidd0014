@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gwynbleidd0014
 - 👀 I’m new in programming
-- 🌱 I’m currently learning everything I get my hands o
+- 🌱 I’m currently learning everything I get my hands on
 - 📫 If you want to contact me just send a mail to mr.nemo0014@gmail.com
 
 <!---
