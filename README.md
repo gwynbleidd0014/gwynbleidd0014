@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ucha
 - 👀 I'm quite a freshman in this field
-- 🌱 I'm honing my JS skills.
+- 🌱 Right now I'm honing my JS skills.
 - 📫 If you want to contact me just send a mail to mr.nemo0014@gmail.com
 
 <!---
